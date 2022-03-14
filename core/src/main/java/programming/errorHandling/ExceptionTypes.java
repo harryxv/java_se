@@ -1,4 +1,4 @@
-package programming.errorhandling;
+package programming.errorHandling;
 
 import java.io.FileNotFoundException;
 import java.io.PrintWriter;
